@@ -4,3 +4,5 @@
 - Used Middle-Ware Functions to check the existing entires and also to check if all the required fields of a user are entered by the client.
 - Also, added a custom HTTP header in the response object named as: "X-devName" - "Sameer Malek".
 - Associated the HTTP status codes accordingly for each response to teh user for example codes such as: 200,201,400,404 for different responses.
+- Created a logs.txt file to trace the API requests made by the clients using built-in fileSystem module's(fs module) writeFile Asynchronous function to avoid 
+  blocking of code process.
