@@ -3,40 +3,4 @@
 1713282882908 : GET : /api/users/1002
 1713282903160 : POST : /api/users
 1713283030471 : ::1 : POST : /api/users
-1713329827175 : ::1 : POST : /api/users
-1713329858928 : ::1 : GET : /api/users/1006
-1713329859055 : ::1 : GET : /favicon.ico
-1713330422231 : ::1 : DELETE : /api/users/1002
-1713330434075 : ::1 : GET : /api/users/1002
-1713330456945 : ::1 : DELETE : /api/users/1008
-1713330542021 : ::1 : GET : /api/users/1009
-1713330556393 : ::1 : GET : /api/users/1009
-1713330696625 : ::1 : GET : /api/users/1009
-1713330703453 : ::1 : GET : /api/users/1000
-1713330712117 : ::1 : GET : /api/users/999
-1713330782095 : ::1 : GET : /api/users/999
-1713330788804 : ::1 : GET : /api/users/2000
-1713331677310 : ::1 : GET : /api/users/1006
-1713331706769 : ::1 : PATCH : /api/users/1006
-1713331719709 : ::1 : GET : /api/users/1006
-1713331764263 : ::1 : PATCH : /api/users/1006
-1713331779157 : ::1 : PATCH : /api/users/1006
-1713333921748 : ::1 : GET : /api/users
-1713334420350 : ::1 : DELETE : /api/users/2002
-1713334461904 : ::1 : POST : /api/users
-1713334524941 : ::1 : POST : /api/users
-1713335236020 : ::1 : POST : /api/users
-1713335272268 : ::1 : POST : /api/users
-1713335301973 : ::1 : POST : /api/users
-1713335778210 : ::1 : GET : /api/users/1006
-1713335901848 : ::1 : POST : /api/users
-1713335926126 : ::1 : POST : /api/users
-1713335945198 : ::1 : POST : /api/users
-1713336088928 : ::1 : POST : /api/users
-1713336097640 : ::1 : POST : /api/users
-1713336518973 : ::1 : POST : /api/users
-1713336607834 : ::1 : POST : /api/users
-1713336711720 : ::1 : POST : /api/users
-1713336824590 : ::1 : POST : /api/users
-1713336843605 : ::1 : POST : /api/users
-1713336910655 : ::1 : POST : /api/users
+
