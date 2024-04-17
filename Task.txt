@@ -1,7 +1,7 @@
 Creating  a REST API: TASKS AND OBJECTIVES-
 
-GET /users - Give information of all the users. -- Done
-GET /user/id- Give the information of the user with ID= id -- Done
+GET /users - Give information of all the users. 
+GET /user/id- Give the information of the user with ID= id 
 
 POST /users - Create a user
 
